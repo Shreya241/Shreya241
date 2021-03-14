@@ -10,6 +10,7 @@
 - ⚡ Fun fact **""I think I am Funny XD""**
 
 <img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+</br>
 
 <h3 align="left">Connect with me:</h3>
 
