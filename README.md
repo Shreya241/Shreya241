@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Agrawal!!😀</h1>
 <h3 align="center">A Girl trying to figure-Out Stuff!!</h3>
+<img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 I’m currently learning **JavaScript, C language**
 
@@ -9,7 +10,7 @@
 
 - ⚡ Fun fact **""I think I am Funny XD""**
 
-<img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 </br>
 
 <h3 align="left">Connect with me:</h3>
