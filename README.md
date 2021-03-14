@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **""I think I am Funny XD""**
 
-<img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <h3 align="left">Connect with me:</h3>
 
@@ -35,7 +35,7 @@
 
 <br/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shreya241&show_icons=true&locale=en" alt="shreya241" /></p>
+![Mehdi's github stats]("https://github-readme-stats.vercel.app/api?username=shreya241&show_icons=true&hide_border=true)
 
 <br/>
 
