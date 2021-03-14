@@ -35,8 +35,7 @@
 
 <br/>
 
-![Mehdi's github stats]("https://github-readme-stats.vercel.app/api?username=shreya241&show_icons=true&hide_border=true)
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shreya241&show_icons=true&locale=en" alt="shreya241" /></p>
 <br/>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shreya241&" alt="shreya241" /></p>
