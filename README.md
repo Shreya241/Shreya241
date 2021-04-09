@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Webdev, python**
 
-- 📫 How to reach me **shreyaagrawal.kunra@gamil.com**
+- 📫 How to reach me **shreyaagrawal.kunra@gmail.com**
 
 - ⚡ Fun fact **""I think I am Funny XD""**
 
