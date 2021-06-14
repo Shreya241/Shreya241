@@ -2,9 +2,9 @@
 <h3 align="center">A Girl trying to figure-Out Stuff!!</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning **JavaScript, C language**
+- 🌱 I’m currently learning **C++ and JavaScript**
 
-- 💬 Ask me about **Webdev, python**
+- 💬 Ask me about **Webdev, python and C language**
 
 - 📫 How to reach me **shreyaagrawal.kunra@gmail.com**
 
