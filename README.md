@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shreyaagrawal.kunra@gmail.com**
 
--😊 I like working with **Adobe Photoshop, Illustrator and Figma for UI/UX**
+- 😊 I like working with **Photoshop, Illustrator and Figma for UI/UX** 
 
 
 </br>
