@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shreya Agrawal!!😀</h1>
-<h3 align="center">A Girl trying to figure-Out Stuff!!</h3>
+<h3 align="center">A Web Designer and Developer</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning **C++ and JavaScript**
+- 🌱 I’m currently learning **React.JS**
 
-- 💬 Ask me about **Webdev, python and C language**
+- 💬 Ask me about **Webdev, python, C and C++**
 
 - 📫 How to reach me **shreyaagrawal.kunra@gmail.com**
 
-- ⚡ Fun fact **""I think I am Funny XD""**
+-😊 I like working with **Adobe Photoshop, Illustrator and Figma for UI/UX**
 
 
 </br>
