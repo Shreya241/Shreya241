@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact: I love to explore new things
   
-- 😊 I like designing, using**Photoshop, Illustrator and Figma.** 
+- 😊 I like designing, using **Photoshop, Illustrator and Figma.** 
 
 - 📫 How to reach me **shreyaagrawal.kunra@gmail.com**
 
