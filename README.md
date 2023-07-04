@@ -3,7 +3,33 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Shreya+Agrawal....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<br>
+<br><br>
+<a href="https://twitter.com/s_h_r_e_y_a_agr">
+  <img align="left" alt="Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shreya--agrawal/">
+  <img align="left" alt="Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Shreya241">
+  <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/shreya241/">
+  <img align="left" alt="Leetcode" width="100px" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+</a>
+<a href="https://www.codechef.com/users/shreya_agr24">
+  <img align="left" alt="Codechef" width="100px" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+</a>
+<a href="https://codeforces.com/profile/Shreya241">
+  <img align="left" alt="CodeForces" width="100px" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+</a>
+<a href="https://discordapp.com/users/shreya__agr">
+  <img align="left" alt="Discord" width="100px" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://www.qwiklabs.com/public_profiles/3ba05c31-4c81-4926-ab37-2b4a0aae1ca0">
+  <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=white" />
+</a>
+<br><br>
+![](https://github.com/Shreya241/Shreya241/blob/main/header_.png)
 
  <h2 align="center"> A Web Developer, an Open Source Contributor & A Competitive Programmer. </h2>
   <br>
@@ -11,6 +37,7 @@
   <p align="left">
   
 </p>
+
 
 <h3 align="left">👨‍💻 ABOUT ME:</h3>
 
