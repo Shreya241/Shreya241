@@ -5,29 +5,30 @@
 </h1>
 <br>
 
- <h2 align="center"> Hi, I'm Shreya Agrawal a Web Developer and a Designer. </h2>
+ <h2 align="center"> A Web Developer, an Open Source Contributor & A Competitive Programmer. </h2>
   <br>
   <br>
   <p align="left">
   
 </p>
-<img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🎓 I'm currently pursuing B.Tech degree in Electronics and Communication
-     Engineering from VIT Vellore.
-  
-- 👯 I’m looking to collaborate on Open Source Projects
-  
-- 📚 I’m currently learning **DSA**
-  
-- 💬 Ask me about **Webdev, C ,C++ and DSA.**
+<h3 align="left">👨‍💻 ABOUT ME:</h3>
 
-- ⚡ Fun fact: I love to explore new things
+- 🎓 Currently pursuing B.Tech from VIT Vellore, I'm passionate about web development and always eager to learn.
   
-- 😊 I like designing, using **Photoshop, Illustrator and Figma.** 
+- 👯 I'm enthusiastic about collaborative projects and eager to contribute to the Open Source community, making a positive impact along the way.
+  
+- 📚 With a strong focus on web development, I enjoy exploring new technologies and expanding my skillset.
+  
+- 💬 Feel free to ask me about Webdev, C, C++, and DSA - I'm here to help!
 
-- 📫 How to reach me **shreyaagrawal.kunra@gmail.com**
+- ⚡ Fun fact: I love discovering new things and embracing fresh challenges.
+  
+- 😊 I also have a flair for design, using tools like Photoshop, Illustrator, and Figma.
 
+- 📫 Reach out to me at shreyaagrawal.kunra@gmail.com. Let's connect!
+
+- 🔗 Check out my [RESUME](https://drive.google.com/file/d/1RnASE5_pO2ZHBrb_OKyMV9dO7gaRbLuP/view?usp=sharing) for more details on my experience and projects. Let's create something amazing together!
 
 
 
