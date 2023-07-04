@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Shreya+Agrawal....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<br><br>
+<br>
 <a href="https://twitter.com/s_h_r_e_y_a_agr">
   <img align="left" alt="Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
@@ -22,26 +22,21 @@
 <a href="https://codeforces.com/profile/Shreya241">
   <img align="left" alt="CodeForces" width="100px" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
 </a>
-<a href="https://discordapp.com/users/shreya__agr">
-  <img align="left" alt="Discord" width="100px" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
 <a href="https://www.qwiklabs.com/public_profiles/3ba05c31-4c81-4926-ab37-2b4a0aae1ca0">
   <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=white" />
 </a>
-<br><br>
-![](https://github.com/Shreya241/Shreya241/blob/main/header_.png)
 
- <h2 align="center"> A Web Developer, an Open Source Contributor & A Competitive Programmer. </h2>
-  <br>
-  <br>
+<br>
+
+ ## <p align="center"><h4 align="center"><samp> A Web Developer, an Open Source Contributor & A Competitive Programmer.</samp></h4></p>
+
   <p align="left">
   
 </p>
 
+<h3 align="left">👩🏻‍💻 ABOUT ME:</h3>
 
-<h3 align="left">👨‍💻 ABOUT ME:</h3>
-
-- 🎓 Currently pursuing B.Tech from VIT Vellore, I'm passionate about web development and always eager to learn.
+- 🎓 Currently pursuing B.Tech in Electrical Engineering from VIT Vellore - 9.45 GPA.
   
 - 👯 I'm enthusiastic about collaborative projects and eager to contribute to the Open Source community, making a positive impact along the way.
   
@@ -58,8 +53,101 @@
 - 🔗 Check out my [RESUME](https://drive.google.com/file/d/1RnASE5_pO2ZHBrb_OKyMV9dO7gaRbLuP/view?usp=sharing) for more details on my experience and projects. Let's create something amazing together!
 
 
+##
+<div>
+<h3 align="left">👩🏻‍💻 Experiences and Achievements:</h3>
+  
+- 🚀 Led Frontend Development at OROM Corp (May 2021 – Dec 2022)
 
-</br>
+- 🌐 Front End Development Intern at IoTAGI - VITTBI (July 2021 – Aug 2022)
+
+- 🎯 Chairperson at IEEE-IAS (since Jan 2021)
+
+- 🤝 Web Development Mentor at Robovitics Club of VIT
+
+- 🏆 Secured 2nd place at Aphelion Hack with a hygroscopic gas mask, conserving water using Anhydrous Calcium Chloride pellets
+
+- 🥉 Achieved 3rd prize among 500+ participants at Autumnnhack by MLH, developing an advanced web app for women's safety
+
+- 📚 Publication - "Safety for Drivers using OpenCV in Python" [Published: 31st Oct 2022]
+
+- 🏅 Secured 1st place at Technica'21 among 1400+ participants
+
+- 💻 Microsoft Azure (AZ-900) Certified
+</div>
+
+##
+
+<h3 align="left"> 🛠 LANGUAGES AND TOOLS:</h3>
+
+<h3><b><samp> Programming Languages</samp></b></h3>
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Matlab](https://img.shields.io/badge/MATLAB-800000?style=for-the-badge&logo=MathWorks&logoColor=white)
+
+
+
+<h3><b><samp> Web-UI Development </samp></b></h3>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<h3><b><samp> Backend Services </samp></b></h3>
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+
+<h3><b><samp> Developer Tools </samp></b></h3>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+<h3><b><samp> Databases </samp></b></h3>
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<h3><b><samp> Version Control </samp></b></h3>
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<hr>
+
+<h3 align="left">STATS: </h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreya241&show_icons=true&locale=en&layout=compact" alt="Shreya241" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya241&show_icons=true&locale=en" alt="Shreya241" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya241&" alt="Shreya241" /></p>
+
+<hr>
+
+<!-- Profile badges  -->
+<h2 align="center">🏆 Profile Trophy 🏆</h2>
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Shreya241&column=8&theme=onedark&no-frame=true"/>
+</a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -72,50 +160,3 @@
   <a href="https://www.hackerrank.com/@shreyaagrawal_k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shreyaagrawal_k1" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@shreya242001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shreya242001" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://www.illustrator.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> 
-  <br>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="python" width="40" height="40"/> </a> </p>
-<br/>
-
-----------------------------------------------------------
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya241&theme=react&border=61dafb&hide_border=true" alt="Shreya241" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Shreya241&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya241&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Shreya241&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<!-- Profile badges  -->
-<h2 align="center">🏆 Profile Trophy 🏆</h2>
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Shreya241&column=8&theme=onedark&no-frame=true"/>
-</a>
-</div>
-
