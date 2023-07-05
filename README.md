@@ -39,7 +39,7 @@
 <h3 align="left">👩🏻‍💻 ABOUT ME:</h3>
 
 
-- 🎓 Currently pursuing B.Tech in Electrical Engineering from VIT Vellore - 9.45 GPA.
+- 🎓 Currently pursuing B.Tech in Electronics Engineering from VIT Vellore - 9.45 GPA.
   
 - 👯 I'm enthusiastic about collaborative projects and eager to contribute to the Open Source community, making a positive impact along the way.
   
