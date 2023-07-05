@@ -39,7 +39,7 @@
 <h3 align="left">👩🏻‍💻 ABOUT ME:</h3>
 
 
-- 🎓 Currently pursuing B.Tech in Electronics Engineering from VIT Vellore - 9.45 GPA.
+- 🎓 Currently pursuing B.Tech in Electronics and Communication Engineering from VIT Vellore - 9.45 GPA.
   
 - 👯 I'm enthusiastic about collaborative projects and eager to contribute to the Open Source community, making a positive impact along the way.
   
@@ -67,14 +67,14 @@
 - 🎯 Chairperson at IEEE-IAS (since Jan 2021)
 
 - 🤝 Web Development Mentor at Robovitics Club of VIT
+  
+- 🏅 Secured 1st place at Technica'21 among 1400+ participants
 
 - 🏆 Secured 2nd place at Aphelion Hack with a hygroscopic gas mask, conserving water using Anhydrous Calcium Chloride pellets
 
 - 🥉 Achieved 3rd prize among 500+ participants at Autumnnhack by MLH, developing an advanced web app for women's safety
 
 - 📚 Publication - "Safety for Drivers using OpenCV in Python" [Published: 31st Oct 2022]
-
-- 🏅 Secured 1st place at Technica'21 among 1400+ participants
 
 - 💻 Microsoft Azure (AZ-900) Certified
 </div>
