@@ -25,8 +25,10 @@
 <a href="https://www.qwiklabs.com/public_profiles/3ba05c31-4c81-4926-ab37-2b4a0aae1ca0">
   <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=white" />
 </a>
-
 <br>
+<br>
+
+<img src="/header_.png">
 
  ## <p align="center"><h4 align="center"><samp> A Web Developer, an Open Source Contributor & A Competitive Programmer.</samp></h4></p>
 
@@ -35,6 +37,7 @@
 </p>
 
 <h3 align="left">👩🏻‍💻 ABOUT ME:</h3>
+
 
 - 🎓 Currently pursuing B.Tech in Electrical Engineering from VIT Vellore - 9.45 GPA.
   
@@ -148,15 +151,26 @@
   <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Shreya241&column=8&theme=onedark&no-frame=true"/>
 </a>
 </div>
+<hr>
 
-<h3 align="left">Connect with me:</h3>
 
-<p align="left">
-<a href="https://codepen.io/shreya_agrawal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shreya_agrawal" height="30" width="40" /></a>
-<a href="https://twitter.com/s_h_r_e_y_a_agr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="s_h_r_e_y_a_agr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreya--agrawal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shreya--agrawal" height="30" width="40" /></a>
-<a href="https://fb.com/shreya.agrawal.1610" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shreya.agrawal.1610" height="30" width="40" /></a>
-<a href="https://instagram.com/s_h_r_e_y_a_agr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="s_h_r_e_y_a_agr" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/@shreyaagrawal_k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shreyaagrawal_k1" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shreya242001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shreya242001" height="30" width="40" /></a>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://linkedin.com/in/shreya--agrawal">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Shreya241">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/s_h_r_e_y_a_agr">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+   <a style="margin-left: 10px;" target="_blank" href="https://fb.com/shreya.agrawal.1610">
+			<img src="https://img.icons8.com/doodle/1x/facebook--v2.png" ></a>
+   <a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1RnASE5_pO2ZHBrb_OKyMV9dO7gaRbLuP/view?usp=sharing">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/s_h_r_e_y_a_agr">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+      </div>
+      
 </p>
